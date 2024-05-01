@@ -19,14 +19,14 @@ To run the Angular E-Commerce App locally, follow these steps:
 git clone https://github.com/rushi2163/ecom.git
 
 2. Navigate to the project directory:
-cd angular-e-commerce-app
+`cd angular-e-commerce-app`
 3. Install dependencies:
-npm install
+`npm install`
 
 4. Run the development server:
-ng serve
+`ng serve`
 4. Run the JSON server:
- json-server --watch db.json
+ `json-server --watch db.json`
 
 
 5. Open your browser and visit `http://localhost:4200` to access the application.
