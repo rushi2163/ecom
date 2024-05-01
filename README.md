@@ -16,7 +16,7 @@ Welcome to the Angular E-Commerce App! This application is built using Angular v
 To run the Angular E-Commerce App locally, follow these steps:
 
 1. Clone the repository:
-git clone <repository-url>
+git clone https://github.com/rushi2163/ecom.git
 
 2. Navigate to the project directory:
 cd angular-e-commerce-app
@@ -44,6 +44,6 @@ Here's how to use the Angular E-Commerce App:
 
 ## License
 
-This project is licensed under the [Rushikesh](LICENSE.md).
+This project is licensed under the [[Rushikesh](https://github.com/rushi2163)](LICENSE.md).
 
 
